@@ -1,0 +1,64 @@
+{
+  "author": "PT ZEN MULTIMEDIA (Fathul H)",
+  "locale": "id",
+
+  "home": {
+    "gallery": "Galeri",
+    "vulnerable_point": "Titik Rawan",
+    "report": "Lapor",
+    "report_data": "Data Laporan",
+    "see_more": "Lihat Semua",
+    "dialog": {
+      "title": "Syarat Pelaporan",
+      "no_1": "Siapkan tanda pengenal.",
+      "no_2": "Isilah nama lengkap sesuai tanda pengenal yang di upload.",
+      "no_3": "Aktipkan GPS.",
+      "announcement": "Pemberitahuan",
+      "description": "Harap aktifkan lokasi anda"
+    },
+
+    "toast": {
+      "permission_reject": "Akses Lokasi Ditolak",
+      "location_off": "Lokasi Tidak Diaktipkan"
+    }
+  },
+
+  "back_text": "Kembali",
+  "next_text": "Lanjukan",
+  "close_text": "Tutup",
+  "active_text": "Aktipkan",
+  "send_text": "Kirim",
+  "select_text": "Pilih Gambar",
+  "save_text": "Simpan",
+  "add_foto_text": "Tambah Foto",
+  "image_gallery": "Ambil Gambar dari Galeri",
+  "image_camera": "'Ambil Gambar dari Kamera'",
+  "detail": {
+    "description": "Keterangan",
+    "maps": "Peta"
+  },
+
+  "formulir": {
+    "profile": {
+      "title": "Identitas Pelapor *",
+      "date": "Tanggal *",
+      "name": "Nama Lengkap *",
+      "name_helper": "Nama lengkap sesuai dengan bukti identitas",
+      "nomor": "Nomor Telp./HP *",
+      "identitas": "Upload Identitas pelapor *",
+      "identitas_helper": "KTP/SIM/KITAS/Passport"
+    },
+    "address": {
+      "title": "Alamat Kejadian *",
+      "subdistrict": "Kecamatan *",
+      "village": "Desa/Kel *",
+      "address": "Alamat Lengkap *"
+    },
+    "incident": {
+      "title": "Detail Kejadian",
+      "type": "Jenis Kejadian *",
+      "description": "Keterangan Kejadian *",
+      "image": "Gambar Kejadian *"
+    }
+  }
+}

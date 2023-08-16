@@ -1,0 +1,63 @@
+{
+  "author": "PT ZEN MULTIMEDIA (Fathul H)",
+  "locale": "en",
+
+  "home": {
+    "gallery": "Gallery",
+    "vulnerable_point": "Vulnerable Point",
+    "report": "Report",
+    "report_data": "Report Data",
+    "see_more": "See More",
+    "dialog": {
+      "title": "Reporting Terms",
+      "no_1": "Have ID ready.",
+      "no_2": "Fill in the full name according to the uploaded ID.",
+      "no_3": "Turn on GPS.",
+      "announcement": "Announcement",
+      "description": "Please activate your location"
+    },
+    "toast": {
+      "permission_reject": "Permission Denied",
+      "location_off": "Location Not Enabled"
+    }
+  },
+
+  "back_text": "Back",
+  "next_text": "Next",
+  "close_text": "Close",
+  "active_text": "Activate",
+  "send_text": "Send",
+  "select_text": "Select Image",
+  "save_text": "Save",
+  "add_foto_text": "Add Picture",
+  "image_gallery": "Take Image from Gallery",
+  "image_camera": "'Take Image from Gallery Camera'",
+  "detail": {
+    "description": "Description",
+    "maps": "Maps"
+  },
+
+  "formulir": {
+    "profile": {
+      "title": "Reporter's Identity *",
+      "date": "Date *",
+      "name": "Full Name *",
+      "name_helper": "Full name as per proof of identity",
+      "nomor": "Nomor Telp./HP *",
+      "identitas": "Upload Reporter identity *",
+      "identitas_helper": "KTP/SIM/KITAS/Passport"
+    },
+    "address": {
+      "title": "Incident Address *",
+      "subdistrict": "Subdistrict *",
+      "village": "Village *",
+      "address": "Full Aadress *"
+    },
+    "incident": {
+      "title": "Incident Detail",
+      "type": "Incident Type *",
+      "description": "Incident Description *",
+      "image": "Incident Image *"
+    }
+  }
+}
